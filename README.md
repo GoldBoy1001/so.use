@@ -1,4 +1,4 @@
-[Кликни чтобы посмотреть](https://skillbox.ru/media/ "ссылка")
+[Кликни чтобы посмотреть](https://so-use-rjse.vercel.app/ "ссылка")
 
 ```
  <?php foreach ($arResult['ITEMS'] as $key => $arItem) { ?>
